@@ -6,7 +6,7 @@
 
 **Unit I: Environment Setup**
 
-1. Which version of Node.js is generally recommended for NativeScript development?
+1. Which version of Node.js is generally recommended for NativeScript development?\n
     a) The latest LTS (Long Term Support) version
     b) Any version above 10
     c) The version specified in the NativeScript documentation
